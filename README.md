@@ -18,7 +18,7 @@ This repo will explore the following modules:
 * LCD Display
 * DC Motors
 
-# Future Projects
+### Future Projects
 * Thermometer
 * 74HC595 AND Segment Display
 * Serial Monitor
